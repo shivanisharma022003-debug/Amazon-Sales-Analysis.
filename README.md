@@ -1,5 +1,6 @@
 # 🛒 Amazon Sales & Product Performance Analysis 
 
+[Main Dashboard](dashboard_full.png)
 ## 🌟 Project Overview
 This project is an end-to-end data analytics solution that explores over 1,300 Amazon product listings. It demonstrates a complete data lifecycle: from raw data cleaning and database management to advanced analytical querying and professional dashboarding.
 
@@ -20,10 +21,11 @@ This project is an end-to-end data analytics solution that explores over 1,300 A
 - **The Value Sweet-Spot:** Products categorized as 'Mid-range' (500-2000 Rs) consistently show higher customer satisfaction scores compared to 'Premium' items.
 - **Discount Impact:** There is a direct correlation between high discounts (>50%) and increased 'Rating Counts', suggesting price cuts significantly drive sales volume.
 
-## 🖼️ Dashboard Gallery
-| Top Categories | Rating Distribution | Price Analysis |
-| :---: | :---: | :---: |
-| ![Top Categories](top_categories.png) | ![Ratings](rating_distribution.png) | ![Price](price_category.png) |
+## 📊 Dashboard Gallery
+
+| Top Categories | Rating Distribution | Price Analysis | Discount Impact | Price Comparison |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Top](top_categories.png) | ![Ratings](rating_distribution.png) | ![Price](price_category.png) | ![Discount](discount_vs_rating.png) | ![Compare](price_comparison.png) |
 
 ---
 Analyzed and Developed by Shivani Sharma
