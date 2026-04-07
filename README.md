@@ -20,8 +20,10 @@ Data Cleaning (Python) → Data Storage (CSV/Excel) → SQL Analysis → Reporti
  
 ## 📈 Key Visualizations
 
-### 🏆 Top Categories
-![Top](Visuals/top_categories.png)
+## 📈 Key Visualizations
+
+### 🏆 Top Product Categories
+![Top Categories](Visuals/top_categories.png)
 
 ### ⭐ Rating Distribution
 ![Ratings](Visuals/rating_distribution.png)
@@ -30,7 +32,7 @@ Data Cleaning (Python) → Data Storage (CSV/Excel) → SQL Analysis → Reporti
 ![Price](Visuals/price_analysis.png)
 
 ### 🔻 Discount Impact
-![Discount](Visuals/discount_impact.png) 
+![Discount](Visuals/discount_impact.png)
 
 ## 📊 Key Insights
 - **Category Leadership:** Computers & Accessories and Electronics represent the highest volume of high-rated products.
