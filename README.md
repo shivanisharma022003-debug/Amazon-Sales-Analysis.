@@ -17,8 +17,6 @@ This project is an end-to-end data analytics solution that explores over 1,300 A
 - ## 🔄 Workflow
 Data Cleaning (Python) → Data Storage (CSV/Excel) → SQL Analysis → Reporting (Excel) → Data Visualization (Power BI)
 
- 
-## 📈 Key Visualizations
 
 ## 📈 Key Visualizations
 
